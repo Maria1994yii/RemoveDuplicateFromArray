@@ -1,0 +1,5 @@
+﻿  RemoveDuplicateFromSortedArray.cpp
+C:\Users\мариа\source\repos\RemoveDuplicateFromSortedArray\RemoveDuplicateFromSortedArray\RemoveDuplicateFromSortedArray.cpp(17,10): warning C4101: arr1: неиспользованная локальная переменная
+C:\Users\мариа\source\repos\RemoveDuplicateFromSortedArray\RemoveDuplicateFromSortedArray\RemoveDuplicateFromSortedArray.cpp(16,9): warning C4101: k: неиспользованная локальная переменная
+C:\Users\мариа\source\repos\RemoveDuplicateFromSortedArray\RemoveDuplicateFromSortedArray\RemoveDuplicateFromSortedArray.cpp(15,9): warning C4101: cout: неиспользованная локальная переменная
+  RemoveDuplicateFromSortedArray.vcxproj -> C:\Users\мариа\source\repos\RemoveDuplicateFromSortedArray\x64\Debug\RemoveDuplicateFromSortedArray.exe
